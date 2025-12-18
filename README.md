@@ -53,14 +53,15 @@
 
 ### Benchmarks
 
-| Benchmark | Paper Title | Paper | Repository | Year |
-|---|---|---|---|---|
-| **OpenGL-CC18** | - | [449] | https://www.openml.org/search?type=benchmark&sort=tasks INCLUDED&study_type=task&id=99 | 2017 |
-| **WellTunedSimpleNets** | - | [450] | https://github.com/machinelearningnuremberg/WellTunedSimpleNets | 2021 |
-| **TabularBench** | - | [77] | https://github.com/LeoGrin/tabular-benchmark | 2022 |
-| **TabZilla** | - | [451] | https://github.com/naszilla/tabzilla | 2023 |
-| **OpenTabs** | - | [452] | https://github.com/Chao-Ye/CM2 | 2024 |
-| **TALENT** | - | [453] | https://github.com/LAMDA-Tabular/TALENT | 2024 |
+| Benchmark | Paper | Repository | Year |
+|---|---|---|:---:|
+| OpenGL-CC18 | [arXiv](<https://arxiv.org/abs/1708.03731>) | [GitHub](<https://www.openml.org/search?type=benchmark&sort=tasks%20INCLUDED&study_type=task&id=99>) | 2017 |
+| WellTunedSimpleNets | [NeurIPS](<https://proceedings.neurips.cc/paper_files/paper/2021/file/c902b497eb972281fb5b4e206db38ee6-Paper.pdf>) | [GitHub](<https://github.com/machinelearningnuremberg/WellTunedSimpleNets>) | 2021 |
+| TabularBench | [NeurIPS](<https://proceedings.neurips.cc/paper_files/paper/2022/file/0378c7692da36807bdec87ab043cdadc-Paper-Datasets_and_Benchmarks.pdf>) | [GitHub](<https://github.com/LeoGrin/tabular-benchmark>) | 2022 |
+| TabZilla | [NeurIPS](<https://proceedings.neurips.cc/paper_files/paper/2023/file/f06d5ebd4ff40b40dd97e30cee632123-Paper-Datasets_and_Benchmarks.pdf>) | [GitHub](<https://github.com/naszilla/tabzilla>) | 2023 |
+| OpenTabs | [arXiv](<https://arxiv.org/pdf/2307.04308>) | [GitHub](<https://github.com/Chao-Ye/CM2>) | 2024 |
+| TALENT | [arXiv](<https://arxiv.org/abs/2407.00956>) | [GitHub](<https://github.com/LAMDA-Tabular/TALENT>) | 2024 |
+
 
 ### Dataset Resources
 
@@ -120,6 +121,15 @@
 | **PrimeNet** | - | [130] | https://github.com/ranakroychowdhury/PrimeNet | 2023 |
 | **RMTPP** | - | [106] | https://github.com/ivan-chai/hotpp-benchmark | 2016 |
 
+
+| Benchmark | Paper | Repository | Year |
+|---|---|---|:---:|
+| GRU | [arXiv](<https://arxiv.org/abs/1511.06939>) | [GitHub](<https://github.com/clientGe/Sequential_Recommendation_Tensorflow>) | 2015 |
+| BERT | [ACL](<https://aclanthology.org/N19-1423.pdf>) | [GitHub](<https://github.com/google-research/bert>) | 2017 |
+| CPC | [arXiv](<https://arxiv.org/abs/1807.03748>) | [GitHub](<https://github.com/davidtellz/contrastive-predictive-coding>) | 2018 |
+| Transformer | [NeurIPS](<https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf>) | [GitHub](<https://github.com/jadore801120/attention-is-all-you-need-pytorch>) | 2017 |
+| PrimeNet | [AAAI](<https://ojs.aaai.org/index.php/AAAI/article/view/25876/25648>) | [GitHub](<https://github.com/ranakroychowdhury/PrimeNet>) | 2023 |
+| RMTPP | [KDD](<https://dunan.github.io/pdf/DuDaiTriUpa2016.pdf>) | [GitHub](<https://github.com/ivan-chai/hotpp-benchmark>) | 2016 |
 
 
 ### Dataset Resources
