@@ -1,5 +1,8 @@
 # Awesome-BehaviorData [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+This repository provides a curated collection of methods and papers surveyed in [***“A Survey on Behavioral Data Representation Learning”***](https://). 
+All resources are systematically organized according to the same taxonomy and categorization scheme adopted in the survey.
+
 ## Tabular Data
 ### Papers
 | Method | Paper Title | Training Paradigm | Model Architecture | Year |
