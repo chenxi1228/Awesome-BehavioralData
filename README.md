@@ -65,25 +65,6 @@
 ### Dataset Resources
 
 
-| Dataset | Paper Title | # Numeric | # Categories | # Samples | # Tasks |
-|---|---|---|---|---|---|
-| **California Housing (CA)** | - | 8 | 0 | 20,640 | Regression |
-| **Adult (AD)** | - | 6 | 8 | 48,842 | Classification |
-| **Helena (HE)** | - | 27 | 0 | 65,196 | Classification |
-| **Jannis (JA)** | - | 54 | 0 | 83,733 | Classification |
-| **Higgs (HI)** | - | 28 | 0 | 1,000,000 | Classification |
-| **ALOI(AL)** | - | 128 | 0 | 108,000 | Classification |
-| **Epsilon (EP)** | - | 2,000 | 0 | 500,000 | Classification |
-| **Year (YE)** | - | 90 | 0 | 515,345 | Regression |
-| **Covertype(CO)** | - | 54 | 0 | 518,012 | classification |
-| **Bank(BK)** | - | 7 | 9 | 45,211 | classification |
-| **Blastchar (BC)** | - | 3 | 17 | 7,043 | classification |
-| **Shoppers (SH)** | - | 4 | 14 | 12,330 | classification |
-| **Volkert (VO)** | - | 180 | 1 | 58,310 | classification |
-| **Income (IC)** | - | 6 | 8 | 32,561 | Classification |
-| **Yahoo (YA)** | - | 699 | 0 | 709,877 | Regression |
-| **Microsoft (MI)** | - | 136 | 0 | 1,200,192 | Regression |
-
 ## Event Sequence
 
 ### Papers
@@ -142,21 +123,6 @@
 
 
 ### Dataset Resources
-
-| Dataset | Paper Title | # Users | # Items/Businesses | # Samples | # Domain |
-|---|---|---|---|---|---|
-| **Amazon Product Reviews 2023** | - | 54.51M | 48.19M | 571.54M | E-commerce |
-| **Amazon Q&A** | - | - | 191K | 1.48M Q, 4.02M A | E-commerce |
-| **ModCloth Marketing Bias** | - | 44.78K | 1.02K | 99.89K | E-commerce |
-| **Google Local Reviews 2021** | - | 113.64M | 4.96M | 666.32M | Local Services |
-| **Google Restaurants** | - | 1.01M | 65K | 1.77M | Local Services |
-| **Twitch** | - | 15.5M | 465K | 124M | Media Content |
-| **Food.com Recipe & Review** | - | 226.57K | 231.64K | 1,13M | Media Content |
-| **EndoMondo Fitness Tracking Data** | - | 1.10K | - | 253.02K | Healthcare |
-| **Behance Community Art Data** | - | 63.50K | 178.79K | 1M | Art |
-| **Taobao UserBehavior** | - | 987.99K | 4.16M | 100.15M | E-commerce |
-| **MovieLens 32M** | - | 200.95K | 87.59K | 32.00M Ratings, 2.00M Tag Applications | Media Content |
-| **Steam Video Game and Bundle Data** | - | 2.57M | 15.47K Items, 615 Bundles | 7.79M | Gaming |
 
 
 
@@ -349,34 +315,13 @@
 
 ### Benchmarks
 
-| Method | Paper Title (Click for Link) | Architecture | Year |
-|---|---|---|---|
-| **PyG-Temporal** | [PyG-Temporal](#) `[None]` | https://github.com/benedekrozemberczki/pytorchbéometric_temporal | 2021 |
-| **TGL** | [TGL](#) `[None]` | https://github.com/amazon-science/tgl | 2022 |
-| **SPEED** | [SPEED](#) `[None]` | https://github.com/chenxi1228/SPEED | 2023 |
-| **DYGL** | [DYGL](#) `[None]` | https://github.com/half-salve/DYGL-lib | 2023 |
-| **DyGLib** | [DyGLib](#) `[None]` | https://github.com/yule-BUAA/DyGLib | 2024 |
-| **TGB** | [TGB](#) `[None]` | https://github.com/shenyangHuang/TGB | 2024 |
-| **BenchTemp** | [BenchTemp](#) `[None]` | https://github.com/johnnyhuangcs/benchtemp | 2024 |
-| **DGB** | [DGB](#) `[None]` | https://github.com/gravins/dynamic_graph_benchmark | 2024 |
-| **BenchTGNN** | [BenchTGNN](#) `[None]` | https://github.com/Yang-yuxin/BenchTGNN | 2024 |
-| **TGX** | [TGX](#) `[None]` | https://github.com/ComplexData-MILA/TGX | 2024 |
-| **DGNN** | [DGNN](#) `[None]` | https://github.com/fengwudi/DGNN_model_and_data | 2024 |
-| **UTG** | [UTG](#) `[None]` | https://github.com/shenyangHuang/UTG | 2024 |
+| Benchmark    | Paper                                                                                                                                              | Repository                                                                  | Specialize       | Year |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------|:----:|
+| PyG-Temporal |NeurIPS|N eN e yN eN(https://proceedings.neurips.cc/paper_files/paper/2024/file/a65d054a407f94c34ecfb598fb540a0d-Paper-Datasets_and_Benchmark                                                                                                                                                   | [GitHub](https://github.com/zjs123/DTGB) | DTDG             | 2024 |
 
 
 ### Dataset Resources
 
-| Datasets | Paper Title | # Entity | # Behavior | # Behavior Category | # Timestamp | Domain |
-|---|---|---|---|---|---|---|
-| **Enron** | - | 42,711 | 797,907 | 10 | 1,006 | E-mail |
-| **GDELT** | - | 6,786 | 1,339,245 | 237 | 2,591 | Knowledge graph |
-| **ICEWS1819** | - | 31,796 | 1,100,071 | 266 | 730 | Knowledge graph |
-| **Stack elec** | - | 397,702 | 1,262,225 | 2 | 5,224 | Multi-round dialogue |
-| **Stack ubuntu** | - | 674,248 | 1,497,006 | 2 | 4,972 | Multi-round dialogue |
-| **Google map_CT** | - | 111,168 | 1,380,623 | 5 | 55,521 | E-commerce |
-| **Amazon movies** | - | 293,566 | 3,217,324 | 5 | 7,287 | E-commerce |
-| **Yelp** | - | 2,138,242 | 6,990,189 | 5 | 6,036 | E-commerce |
 
 
 ## Others
