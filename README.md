@@ -110,18 +110,6 @@
 | **HORAE** | [Horae: Temporal multi-interest pre-training for sequential recommendation](https://dl.acm.org/doi/abs/10.1145/3727645) | Self-supervised learning | Transformer | 2025 |
 
 ### Benchmarks
-
-
-| Benchmark | Paper Title | Paper | Repository | Year |
-|---|---|---|---|---|
-| **GRU** | - | [105] | https://github.com/clientGe/Sequential_Recommendation_Tensorflow | 2015 |
-| **BERT** | - | [80] | https://github.com/google-research/bert | 2017 |
-| **CPC** | - | [470] | https://github.com/davidtellz/contrastive-predictive-coding | 2018 |
-| **Transformer** | - | [2] | https://github.com/jadore801120/attention-is-all-you-need-pytorch | 2017 |
-| **PrimeNet** | - | [130] | https://github.com/ranakroychowdhury/PrimeNet | 2023 |
-| **RMTPP** | - | [106] | https://github.com/ivan-chai/hotpp-benchmark | 2016 |
-
-
 | Benchmark | Paper | Repository | Year |
 |---|---|---|:---:|
 | GRU | [arXiv](<https://arxiv.org/abs/1511.06939>) | [GitHub](<https://github.com/clientGe/Sequential_Recommendation_Tensorflow>) | 2015 |
@@ -143,7 +131,12 @@
 | Method | Paper Title | Structural Encoding | Temporal Encoding | Year |
 |---|---|---|---|---|
 |---| **Static Embedding + Temporal Alignment Methods**  |---|---|---|
-| **Chakrabarti et al. , Chi et al. ,Kim & Han , Gupta et al. ,Yao et al. , Zhou et al.** | [Evolutionary clustering](http://faculty.mccombs.utexas.edu/deepayan.chakrabarti/mywww/papers/kdd06-evolutionary.pdf) | Matrix factorization | Smoothness regularization or alignment | 2006-2018 |
+| **Chakrabarti et al.** | [Evolutionary clustering](http://faculty.mccombs.utexas.edu/deepayan.chakrabarti/mywww/papers/kdd06-evolutionary.pdf) | Matrix factorization | Smoothness regularization or alignment | 2006 |
+| **Chi et al.** | [On evolutionary spectral clustering](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/09tkdd_evolutionary-1.pdf) | Matrix factorization | Smoothness regularization or alignment | 2009 |
+| **Kim & Han** | [A particle-and-density based evolutionary clustering method for dynamic networks](http://www.vldb.org/pvldb/vol2/vldb09-404.pdf) | Matrix factorization | Smoothness regularization or alignment | 2009 |
+| **Gupta et al.** | [Evolutionary clustering and analysis of bibliographic networks](https://charuaggarwal.net/asonam-cluster.pdf) | Matrix factorization | Smoothness regularization or alignment | 2011 |
+| **Yao et al.** | [Link prediction based on common-neighbors for dynamic social network](https://www.sciencedirect.com/science/article/pii/S1877050916301259) | Matrix factorization | Smoothness regularization or alignment | 2016|
+| **Zhou et al.** | [Dynamic network embedding by modeling triadic closure process](https://ojs.aaai.org/index.php/AAAI/article/view/11257) | Matrix factorization | Smoothness regularization or alignment | 2018 |
 | **Hisano** | [Semi-supervised graph embedding approach to dynamic link prediction](https://arxiv.org/pdf/1610.04351) | Matrix factorization | Time window aggregation | 2018 |
 | **Sharan & Neville** | [Temporal-relational classifiers for prediction in evolving domains](https://www.umangsh.com/static/mysite/docs/icdm08_slides.3d3d47831d62.pdf) | Matrix factorization | Time-weighted adjacency matrices | 2008 |
 | **Ibrahim et al.** | [Link prediction in dynamic social networks by integrating different types of information](https://www.researchgate.net/profile/Nahla-Ibrahim-3/publication/275219479_Link_prediction_in_dynamic_social_networks_by_integrating_different_types_of_information/links/63189822873eca0c006c48f2/Link-prediction-in-dynamic-social-networks-by-integrating-different-types-of-information.pdf) | Matrix factorization | Exponential decay | 2015 |
@@ -249,7 +242,7 @@
 ### Benchmarks
 | Benchmark    | Paper                                                                                                                                              | Repository                                                                  | Specialize       | Year |
 |--------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------|:----:|
-| PyG-Temporal | [arXiv](https://arxiv.org/pdf/2104.07788)                                                                                                                                                   | [GitHub](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) | DTDG             | 2021 |
+| PyG-Temporal | [arXiv](https://arxiv.org/pdf/2104.07788)                                                                                                          | [GitHub](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) | DTDG             | 2021 |
 | TGL          | [arXiv](https://arxiv.org/abs/2203.14883)                                                                                                          | [GitHub](https://github.com/amazon-science/tgl)                             | Large-scale CTDG | 2022 |
 | SPEED        | [arXiv](https://arxiv.org/abs/2308.14129)                                                                                                          | [GitHub](https://github.com/chenxi1228/SPEED)                               | Large-scale CTDG | 2023 |
 | DYGL         | [APWeb](https://link.springer.com/chapter/10.1007/978-981-97-2387-4_26)                                                                            | [GitHub](https://github.com/half-salve/DYGL-lib)                            | DTDG and CTDG    | 2023 |
@@ -325,9 +318,9 @@
 
 ### Benchmarks
 
-| Benchmark    | Paper                                                                                                                                              | Repository                                                                  | Specialize       | Year |
-|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------|:----:|
-| PyG-Temporal |NeurIPS|N eN e yN eN(https://proceedings.neurips.cc/paper_files/paper/2024/file/a65d054a407f94c34ecfb598fb540a0d-Paper-Datasets_and_Benchmark                                                                                                                                                   | [GitHub](https://github.com/zjs123/DTGB) | DTDG             | 2024 |
+| Benchmark    | Paper                                           |Repository                                | Year |
+|--------------|-------------------------------------------------|------------------------------------------|:----:|
+| DTGB         |[NeurIPS](https://arxiv.org/abs/2406.12072)      | [GitHub](https://github.com/zjs123/DTGB) | 2024 |
 
 
 ### Dataset Resources
