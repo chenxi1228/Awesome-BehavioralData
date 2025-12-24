@@ -125,7 +125,11 @@ All resources are systematically organized according to the same taxonomy and ca
 
 ### Dataset Resources
 
+[Recommender Systems and Personalization Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews)
 
+[MovieLens](https://grouplens.org/datasets/movielens/)
+
+[UserBehavior](https://tianchi.aliyun.com/dataset/649)
 
 ## Dynamic Graph
 
