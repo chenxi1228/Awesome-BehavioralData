@@ -68,6 +68,9 @@ All resources are systematically organized according to the same taxonomy and ca
 
 ### Dataset Resources
 
+[TabularBench-GitHub](https://github.com/LeoGrin/tabular-benchmark)
+[TabularBench-Huggingface](https://huggingface.co/datasets/inria-soda/tabular-benchmark)
+
 
 ## Event Sequence
 
@@ -332,6 +335,7 @@ All resources are systematically organized according to the same taxonomy and ca
 
 ### Dataset Resources
 
+[DTGB-Google Drive](https://drive.google.com/drive/folders/1QFxHIjusLOFma30gF59_hcB19Ix3QZtk)
 
 
 ## Application Scenarios
