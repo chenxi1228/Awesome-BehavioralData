@@ -36,23 +36,31 @@ All resources are systematically organized according to the same taxonomy and ca
 | **SCARF** | [Scarf: Self-supervised contrastive learning using random feature corruption](https://arxiv.org/abs/2106.15147) | Self-Supervised Learning | MLP | 2021 |
 | **GANDALF** | [Gandalf: gated adaptive network for deep automated learning of features](https://arxiv.org/abs/2207.08548) | Supervised learning | GFLU | 2022 |
 | **TabDDPM** | [Tabddpm: Modelling tabular data with diffusion models](https://proceedings.mlr.press/v202/kotelnikov23a/kotelnikov23a.pdf) | Unsupervised Learning | Diffusion Model | 2022 |
-| **Ptab** | [Ptab: Using the pre-trained language model for modeling tabular data](https://arxiv.org/abs/2209.08060) | Supervised + Self-Supervised Learning | BERT | 2022 |
+| **PTab** | [Ptab: Using the pre-trained language model for modeling tabular data](https://arxiv.org/abs/2209.08060) | Supervised + Self-Supervised Learning | BERT | 2022 |
+| **TabCBM** | [TabCBM: Concept-based Interpretable Neural Networks for Tabular Data](https://openreview.net/pdf?id=TIsrnWpjQ0) | Supervised Learning | MLP | 2024 |
 | **Trompt** | [Prompt: Towards a better deep neural network for tabular data](https://arxiv.org/abs/2305.18446) | Supervised + Prompt learning | MLP | 2023 |
 | **HYTREL** | [Hytrel: Hypergraph-enhanced tabular data representation learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/66178beae8f12fcd48699de95acc1152-Paper-Conference.pdf) | Supervised + Self-Supervised Learning | HYTREL | 2023 |
 | **ReConTab** | [Recontab: Regularized contrastive representation learning for tabular data](https://arxiv.org/abs/2310.18541) | Self-Supervised | Transformer | 2023 |
 | **XTab** | [Xtab: Cross-table pretraining for tabular transformers](https://arxiv.org/abs/2305.06090) | Supervised + Self-Supervised Learning | Transformer | 2023 |
+| **IATTN** | [Interpretable Additive Tabular Transformer Networks](https://openreview.net/pdf?id=TdJ7lpzAkD) | Supervised Learning | Transformer | 2024 |
 | **MambaTab** | [Mambatab: A plug-and-play model for learning tabular data](https://pmc.ncbi.nlm.nih.gov/articles/PMC11755428/) | Supervised learning | Mamba | 2024 |
+| **GCondNet** | [GCondNet: A Novel Method for Improving Neural Networks on Small High-Dimensional Tabular Data](https://openreview.net/pdf?id=y0b0H1ndGQ) | Supervised learning | MLP | 2024 |
 | **BiSHop** | [Bishop: Bi-directional cellular learning for tabular data with generalized sparse modern hopfield model](https://arxiv.org/abs/2404.03830) | Supervised learning | BiSHop | 2024 |
 | **LF-transformer** | [Lf-transformer: Latent factorizer transformer for tabular learning](https://ieeexplore.ieee.org/iel7/6287639/6514899/10401112.pdf) | Supervised learning | Transformer | 2024 |
 | **TabR** | [Tabr: Tabular deep learning meets nearest neighbors](https://arxiv.org/pdf/2307.14338) | Supervised learning | TabR | 2024 |
 | **TP-BERTa** | [Making pre-trained language models great on tabular prediction](https://arxiv.org/abs/2403.01841) | Supervised + Self-Supervised Learning | BERT | 2024 |
 | **CARTE** | [Carte: pretraining and transfer for tabular learning](https://arxiv.org/abs/2402.16785) | Supervised + Self-Supervised Learning | Transformer | 2024 |
 | **SwitchTab** | [Switchtab: Switched autoencoders are effective tabular learners](https://ojs.aaai.org/index.php/AAAI/article/download/29523/30869) | Self-Supervised Learning | Transformer | 2024 |
+| **DP-2Stage** | [DP-2Stage: Adapting Language Models as Differentially Private Tabular Data Generators](https://openreview.net/pdf?id=6nBIweDYzZ) | Supervised Learning | Transformer | 2025 |
+| **TARTE** | [Table Foundation Models: on knowledge pre-training for tabular learning](https://openreview.net/pdf?id=QV4P8Csw17) | Supervised + Self-Supervised Learning | Transformer | 2025 |
+| **TDColER** | [On Learning Representations for Tabular Data Distillation](https://openreview.net/pdf?id=GXlsrvOGIK) | Supervised + Unsupervised Learning | Distillation | 2025 |
 |---| **LLM-driven Methods** |---|---|---|
 | **TAPAS** | [Tapas: Weakly supervised table parsing via pre-training](https://arxiv.org/abs/2004.02349) | Self-Supervised Learning | Bert | 2020 |
 | **TAPEX** | [Tapex: Table pre-training via learning a neural sql executor](https://arxiv.org/abs/2107.07653) | Supervised + Self-Supervised Learning | Transformer | 2022 |
 | **TabLLM** | [Tabllm: Few-shot classification of tabular data with large language models](https://proceedings.mlr.press/v206/hegselmann23a/hegselmann23a.pdf) | Supervised + Self-Supervised Learning | Transformer | 2022 |
 | **cTBLS** | [ctbls: Augmenting large language models with conversational tables](https://arxiv.org/abs/2303.12024) | Supervised learning | Transformer | 2023 |
+| **TST-LLM** | [LLM-Guided Self-Supervised Tabular Learning With Task-Specific Pre-text Tasks](https://openreview.net/pdf?id=jXcx2oAIbw) | Self-Supervised learning | Transformer | 2025 |
+| **Tabby** | [Tabby: A Language Model Architecture for Tabular and Structured Data Synthesis](https://openreview.net/pdf?id=b9FPVnb0Bn) | Supervised learning | Transformer | 2026 |
 
 ### Benchmarks
 
@@ -64,6 +72,7 @@ All resources are systematically organized according to the same taxonomy and ca
 | TabZilla | [NeurIPS](<https://proceedings.neurips.cc/paper_files/paper/2023/file/f06d5ebd4ff40b40dd97e30cee632123-Paper-Datasets_and_Benchmarks.pdf>) | [GitHub](<https://github.com/naszilla/tabzilla>) | 2023 |
 | OpenTabs | [arXiv](<https://arxiv.org/pdf/2307.04308>) | [GitHub](<https://github.com/Chao-Ye/CM2>) | 2024 |
 | TALENT | [arXiv](<https://arxiv.org/abs/2407.00956>) | [GitHub](<https://github.com/LAMDA-Tabular/TALENT>) | 2024 |
+| TDBench | [TMLR](<https://openreview.net/pdf?id=GXlsrvOGIK>) | [GitHub](<http://github.com/inwonakng/tdbench>) | 2025 |
 
 
 ### Dataset Resources
@@ -235,7 +244,9 @@ All resources are systematically organized according to the same taxonomy and ca
 | **OTGNet** | [Towards open temporal graph neural networks](https://arxiv.org/pdf/2303.15015) | Open graph attention | Extended Time Encoding | No | 2023 |
 | **TGRank** | [Expressive and efficient representation learning for ranking links in temporal graphs](https://dl.acm.org/doi/pdf/10.1145/3543507.3583476) | Temporal attention ranking | Enhanced Time Encoding | No | 2023 |
 | **DHGAS** | [Community-based dynamic graph learning for popularity prediction](https://dl.acm.org/doi/abs/10.1145/3580305.3599281) | Heterogeneous GNN + Attention | Time Encoding | No | 2023 |
+| **DyG2Vec** | [DyG2Vec: Efficient Representation Learning for Dynamic Graphs](https://openreview.net/pdf?id=YRKS2J0x36) | Temporal edge encoding | Time Encoding | No | 2023 |
 | **SimpleDyG** | [On the feasibility of simple transformer for dynamic graph modeling](https://dl.acm.org/doi/pdf/10.1145/3589334.3645622) | Transformer | Time and Position Encoding | No | 2024 |
+| **Todyformer** | [Todyformer: Towards Holistic Dynamic Graph Transformers with Structure-Aware Tokenization](https://openreview.net/pdf?id=nAQSUqEspb) | GNN+Transformer |  Position Encoding | No | 2024 |
 | **DyGFormer** | [Towards better dynamic graph learning: New architecture and unified library](https://proceedings.neurips.cc/paper_files/paper/2023/file/d611019afba70d547bd595e8a4158f55-Paper-Conference.pdf) | 1-hop Neighbour + Co-occurrence | Time and Position Encoding | No | 2024 |
 | **APAN** | [Apan: Asynchronous propagation attention network for real-time temporal graph embedding](https://arxiv.org/pdf/2011.11545) | Mailbox + Attention | Time Encoding | Yes | 2021 |
 | **iLoRE** | [ilore: Dynamic graph representation with instant long-term modeling and re-occurrence preservation](https://dl.acm.org/doi/pdf/10.1145/3583780.3614926) | Re-occurrence + Identity attention | Time Encoding | Yes | 2022 |
@@ -245,6 +256,7 @@ All resources are systematically organized according to the same taxonomy and ca
 | **FreeDyG** | [Freedyg: Frequency enhanced continuous-time dynamic graph model for link prediction](https://openreview.net/pdf?id=82Mc5ilInM) | Fourier-enhanced GNN | Functional Time Encoding | No | 2024 |
 | **CNE-N** | [Co-neighbor encoding schema: A light-cost structure encoding method for dynamic link prediction](https://arxiv.org/pdf/2407.20871?) | Hash table-based memory | Temporal-diverse memory | Yes | 2024 |
 | **TG-Mixer** | [Interactions exhibit clustering rhythm: A prevalent observation for advancing temporal link prediction](https://arxiv.org/abs/2308.14129) | Clustering Patterns | Time Encoding | No | 2024 |
+| **DyGMamba** | [DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State Space Models](https://openreview.net/pdf?id=sq5AJvVuha) | Mamba | Time Encoding | No | 2025 |
 |---| **MLP-based Methods** |---|---|---|
 | **GraphMixer** | [Do we really need complicated model architectures for temporal networks?](https://arxiv.org/pdf/2302.11636) | MLP + Mean pooling | Fixed Time Encoding | No | 2024 |
 | **RepeatMixer** | [Repeat-aware neighbor sampling for dynamic graph learning](https://arxiv.org/pdf/2405.17473?) | MLP + Repeat-aware sampling | Time-aware aggregation | No | 2024 |
