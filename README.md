@@ -464,7 +464,8 @@ All resources are systematically organized according to the same taxonomy and ca
 | **FTR** | [Time2vec: Learning a vector representation of time](<https://arxiv.org/abs/1907.05321>) | Time Encoding | 
 | **FTR** | [Self-attention with functional time representation learning](<https://proceedings.neurips.cc/paper/2019/file/cf34645d98a7630e2bcca98b3e29c8f2-Paper.pdf>) | Time Encoding |
 | **Time2Vec** | [Time2vec: Learning a vector representation of time](<https://arxiv.org/abs/1907.05321>) | Time Encoding | 
-| **LeTE** | [Rethinking time encoding via learnable transformation functions](<https://arxiv.org/pdf/2505.00887?>) | Time Encoding | 
+| **LeTE** | [Rethinking time encoding via learnable transformation functions](<https://proceedings.mlr.press/v267/chen25bh.html>) | Time Encoding | 
+| **Linear Time Encoding** | [Between Linear and Sinusoidal: Rethinking the Time Encoder in Dynamic Graph Learning](<https://openreview.net/pdf?id=W6GQvdOGHg>) | Time Encoding | 
 | **Absolute PE** | [Attention is all you need](<https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf>) | Positional Encoding |
 | **RoPE** | [Rofomer: Enhanced transformer with rotary position embedding](<https://arxiv.org/pdf/2104.09864>) | Positional Encoding | 
 
