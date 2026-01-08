@@ -120,7 +120,11 @@ All resources are systematically organized according to the same taxonomy and ca
 | **BERT4ETH** | [Bert4eth: A pretrained transformer for ethereum fraud detection](https://dl.acm.org/doi/pdf/10.1145/3543507.3583345) | Self-supervised learning | BERT | 2023 |
 | **PrimeNet** | [Primenet: Pre-training for irregular multivariate time series](https://ojs.aaai.org/index.php/AAAI/article/view/25876/25648) | Self-supervised learning | Transformer | 2023 |
 | **ECGAN-Rec** | [Enhancing sequential recommendation with contrastive generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0306457323000687) | Semi-supervised learning | GAN | 2023 |
+| **SeqLink** | [SeqLink: A Robust Neural-ODE Architecture for Modelling Partially Observed Time Series](https://openreview.net/pdf?id=WCUT6leXKf) | Supervised learning | Neural ODE | 2024 |
+| **Chronos** | [Chronos: Learning the Language of Time Series](https://openreview.net/pdf?id=gerNCVqqtR) | Self-supervised learning | Transformer | 2024 |
 | **Player2Vec** | [player2vec: A language modeling approach to understand player behavior in games](https://arxiv.org/abs/2404.04234) | Self-supervised learning | BERT | 2024 |
+| **TOTEM** | [TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis](https://openreview.net/pdf?id=QlTLkH6xRC) | Self-supervised learning | VQ-VAE | 2024 |
+| **PhASER** | [Phase-driven Generalizable Representation Learning for Nonstationary Time Series Classification](https://openreview.net/pdf?id=cb3nwoqLdd) | Supervised learning | Multiple | 2025 |
 | **Residual TPP** | [Residual TPP: A unified lightweight approach for event stream data analysis](https://openreview.net/pdf?id=AUkBFMtyUs) | Self-supervised learning | Hawkes + Neural TPP | 2025 |
 | **IOCLRc** | [Intent oriented contrastive learning for sequential recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33390/35545) | Self-supervised learning | Transformer+CL | 2025 |
 | **HORAE** | [Horae: Temporal multi-interest pre-training for sequential recommendation](https://dl.acm.org/doi/abs/10.1145/3727645) | Self-supervised learning | Transformer | 2025 |
