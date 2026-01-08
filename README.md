@@ -102,6 +102,7 @@ All resources are systematically organized according to the same taxonomy and ca
 | **AttRec** | [Next item recommendation with self-attention](https://arxiv.org/abs/1808.06414) | Supervised learning | Transformer | 2018 |
 | **MANN** | [Sequential recommendation with user memory networks](https://dl.acm.org/doi/pdf/10.1145/3159652.3159668) | Supervised learning | Memory Network | 2018 |
 | **RecGAN** | [Recgan: recurrent generative adversarial networks for recommendation systems](https://homangab.github.io/papers/recgan.pdf) | Semi-supervised learning | GAN+RNN | 2018 |
+| **RPPN** | [Learning time series associated event sequences with recurrent point process networks](https://ieeexplore.ieee.org/abstract/document/8624540) | Self-supervised learning | RNN | 2019 |
 | **BERT4Rec** | [Bert4rec: Sequential recommendation with bidirectional encoder representations from transformer](https://arxiv.org/pdf/1904.06690) | Self-supervised learning | BERT | 2019 |
 | **DTCDR** | [Dtcdr: A framework for dual-target cross-domain recommendation](https://www.researchgate.net/profile/Feng-Zhu-59/publication/337018321_DTCDR_A_Framework_for_Dual-Target_Cross-Domain_Recommendation/links/5e60a6c3a6fdccbeba1c9d86/DTCDR-A-Framework-for-Dual-Target-Cross-Domain-Recommendation.pdf) | Supervised learning | MLP | 2019 |
 | **FDSA** | [Feature-level deeper self-attention network for sequential recommendation](https://www.ijcai.org/proceedings/2019/0600.pdf) | Supervised learning | Transformer | 2019 |
