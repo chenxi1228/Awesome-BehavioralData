@@ -3,6 +3,35 @@
 This repository provides a curated collection of methods and papers surveyed in [***“A Survey on Behavioral Data Representation Learning”***](BehavioralData_Survey.pdf). 
 All resources are systematically organized according to the same taxonomy and categorization scheme adopted in the survey.
 
+
+## Table of Contents
+- [Tabular Data](#tabular-data)
+    - [Papers](#papers)
+    - [Benchmarks](#benchmarks)
+    - [Dataset Resources](#dataset-resources)
+- [Event Sequence](#event-sequence)
+    - [Papers](#papers-1)
+    - [Benchmarks](#benchmarks-1)
+    - [Dataset Resources](#dataset-resources-1)
+- [Dynamic Graph](#dynamic-graph)
+    - [Papers](#papers-2)
+      - [Discrete-Time Dynamic Graph (DTDG)](#discrete-time-dynamic-graph-dtdg)
+      - [Continuous-Time Dynamic Graph (CTDG)](#continuous-time-dynamic-graph-ctdg)
+    - [Benchmarks](#benchmarks-2)
+    - [Dataset Resources](#dataset-resources-2)
+- [Textual Data](#textual-data)
+    - [Papers](#papers-3)
+    - [Benchmarks](#benchmarks-3)
+    - [Dataset Resources](#dataset-resources-3)
+- [Application Scenarios](#application-scenarios)
+- [Key Modules](#key-modules)
+
+
+
+
+
+
+
 ## Tabular Data
 ### Papers
 | Method | Paper Title | Training Paradigm | Model Architecture | Year |
