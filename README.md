@@ -25,6 +25,7 @@ All resources are systematically organized according to the same taxonomy and ca
     - [Dataset Resources](#dataset-resources-3)
 - [Application Scenarios](#application-scenarios)
 - [Key Modules](#key-modules)
+- [BibTex](#bibtex)
 
 
 
@@ -505,6 +506,19 @@ All resources are systematically organized according to the same taxonomy and ca
 
 
 
+## BibTex
+If you find our paper or repository helpful, please consider citing our work.
 
+
+```bibtex
+@article{chen2026behavioral,
+  title     = {A Survey on Behavioral Data Representation Learning},
+  author    = {Chen, Xi and Zhang, Siwei and Jia, Kangxiang and Peng, Sijia and Wang, Yuxuan and Su, Liang and Huang, Xinyi and Xu, Jiarong and Xiong, Yun and Yu, Philip S.},
+  journal   = {TechRxiv},
+  year      = {2026},
+  doi       = {10.36227/techrxiv.176945766.69882506/v1},
+  note      = {Preprint},
+  url       = {https://www.techrxiv.org/1378393}
+}
 
 
