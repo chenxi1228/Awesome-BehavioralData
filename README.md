@@ -1,4 +1,4 @@
-# Awesome-BehavioralData [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-BehavioralData [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![TechRxiv](https://img.shields.io/badge/TechRxiv-1378393.svg)](https://www.techrxiv.org/1378393)&nbsp; 
 
 This repository provides a curated collection of methods and papers surveyed in [***“A Survey on Behavioral Data Representation Learning”***](BehavioralData_Survey.pdf). 
 All resources are systematically organized according to the same taxonomy and categorization scheme adopted in the survey.
